@@ -1,4 +1,4 @@
-# Using SparkSQL to analyze large data sets
+# Using PySpark to analyze large data sets
 
 # Data prep
 
