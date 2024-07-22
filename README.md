@@ -24,11 +24,13 @@
 
 Ran the same query 3 different ways to view differences in run time.  
 Added a run time calculation for the 4th query above.  
-    -Time: 1.2482097148895264 seconds      
+        -Time: 1.2482097148895264 seconds      
 Cached the temporary table and verified.  
-    -Time: 0.529306173324585 seconds      
+        -Time: 0.529306173324585 seconds      
 -Partitioned the data.  
-    -Time: 0.9826006889343262 seconds  
+        -Time: 0.9826006889343262 seconds  
+
+![image](https://github.com/user-attachments/assets/54084d54-5db6-4f6b-933e-e9678986d266)
 
 # Conclusion
 
